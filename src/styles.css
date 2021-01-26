@@ -1,0 +1,72 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  font-family: poppins, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(247, 224, 224);
+  margin-bottom: 15px;
+  border :solid red;
+  background-color: red;
+  margin-bottom :-3px;
+}
+
+.contact-container {
+  padding: 15px;
+  border: none;
+  border: solid rgb(29, 28, 28);
+  display: flex;
+  align-items: center;
+  margin-top:-1px;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 20%;
+}
+
+.text-container {
+  padding-left: 15px;
+}
+
+.name{
+  text-align: center;
+}
+
+.name {
+  font-family: poppins, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(73, 73, 73);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.phone {
+  font-family: poppins, sans-serif;
+  font-size: 12px;
+  font-weight: lighter;
+  color: rgb(151, 151, 151);
+}
+.contacatas{
+  font-size: 30px;
+}
+
+.loading{
+  border: solid black;
+  text-align:center;
+  margin-top: -6px;
+  color: rgb(247, 224, 224);
+  background-color:black;
+}
